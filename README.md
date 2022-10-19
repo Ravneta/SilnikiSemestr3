@@ -1,4 +1,3 @@
-# SilnikiSemestr3
-Zadania na silniki 
+# Silniki Semestr 3
 Karolina Lewicka
 45298
